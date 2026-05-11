@@ -41,4 +41,4 @@ To create an interactive and touch-free system that improves accessibility and u
 - Smart classroom environments
 
 ## Author
-Pushpita
+Pushpita Adhikari
